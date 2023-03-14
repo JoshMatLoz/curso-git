@@ -1,0 +1,23 @@
+* b841fab Agregando 2 pafarros
+*   39d86f2 Resolviendo conflicto en estaciones del año con fecha de inicio
+|\  
+| * 0b5b285 Agregando estaciones del año
+* | edc74fe Agregando estaciones del año con fecha de inicio
+|/  
+*   3a74669 Resolviendo conflicto merge main / html en el documento index.html
+|\  
+| * 8ebb397 Agregando index.js al index.html
+* | 6602860 Agregando style.css als index.html
+* |   afde67c Merge branch 'js'
+|\ \  
+| * | 2dd71d6 Creando app.js
+* | | 6fc6e33 Creando style.css
+| |/  
+|/|   
+* | 24f35fd Creando archivo index.html
+|/  
+* ba49045 Ignorando ejecutables
+* 85e6428 Creando licencia del repositorio
+* eef4e90 Agregando mas contenido al README �
+* a38ef9b Agregando cambios al README.md
+* 31c5075 Primer Commit 🫶

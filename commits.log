@@ -1,0 +1,98 @@
+commit b841fab5751ff1bec2a05adaab71f16f1ef1918c
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 21:58:20 2023 -0600
+
+    Agregando 2 pafarros
+
+commit 39d86f215dfaa73eb6087cf80af051f7c0f615ad
+Merge: edc74fe 0b5b285
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 21:56:25 2023 -0600
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit edc74fe69718741253582c6e1e86a951430a3e52
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 19:29:26 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 0b5b2858e91d5db2808f1317af9ba826ad6627b1
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 19:29:26 2023 -0600
+
+    Agregando estaciones del año
+
+commit 3a746699fdbaf86c0f776e1cb860eb2d0da224ae
+Merge: 6602860 8ebb397
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 19:23:09 2023 -0600
+
+    Resolviendo conflicto merge main / html en el documento index.html
+
+commit 8ebb397ad2b81be056431684cb7d236babde517b
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 19:16:16 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 66028607ae04ae83fa4d0a1808ff9e5d3d9d4fde
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 19:04:58 2023 -0600
+
+    Agregando style.css als index.html
+
+commit afde67c13f56543dfa2a0f2f8b96d9ebfbb60b71
+Merge: 6fc6e33 2dd71d6
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 18:46:39 2023 -0600
+
+    Merge branch 'js'
+
+commit 2dd71d68dbd32fefd2c7ae2e6e25ed087f5213ee
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 18:38:32 2023 -0600
+
+    Creando app.js
+
+commit 6fc6e33edea155f8ae8469ec69e5d5eb44bc1740
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 18:34:32 2023 -0600
+
+    Creando style.css
+
+commit 24f35fd19a849906bf5d278b04142d508af81946
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Mon Mar 13 18:30:22 2023 -0600
+
+    Creando archivo index.html
+
+commit ba49045169bb83456da367e2e29a2fc4f331461f
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Sun Mar 12 20:33:40 2023 -0600
+
+    Ignorando ejecutables
+
+commit 85e64284ed4d06c12dfb768d24358b54d016f16d
+Author: JoshMatLoz <106772982+JoshMatLoz@users.noreply.github.com>
+Date:   Sun Mar 12 15:00:09 2023 -0600
+
+    Creando licencia del repositorio
+
+commit eef4e90d46da6195799829c8701d11c0f7e7ff16
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Sun Mar 12 14:52:12 2023 -0600
+
+    Agregando mas contenido al README �
+
+commit a38ef9b484a42d2c15191c32f4cbcc886bc97c86
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Sun Mar 12 11:14:11 2023 -0600
+
+    Agregando cambios al README.md
+
+commit 31c5075080cad2d3fb6072aa065526b4858ca352
+Author: Josue Emmanuel Mata Lozano <josuematloz@gmail.com>
+Date:   Sun Mar 12 11:06:53 2023 -0600
+
+    Primer Commit 🫶
